@@ -19,7 +19,7 @@ are difficult to interpret.
 This project demonstrates how **concept learning** can be used to build
 **transparent, explainable decision systems** using structured datasets.
 
-The system learns a hypothesis from data and uses it to make decisions
+The system learns a hypothesis from data and uses it to make decisions 
 on unseen inputs received via APIs.
 
 ---
